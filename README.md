@@ -21,7 +21,8 @@ Application interactive de visualisation des tirs NBA pour la saison 2024-2025. 
   - Photo du joueur et logo de l'équipe
   - Taille, poids et position (via NBA API)
 
+## Pour lancer
 
-## Pour Lancer
-  pip install streamlit pandas plotly numpy nba-api
-  streamlit run shotcharts.py
+```bash
+pip install streamlit pandas plotly numpy nba-api
+streamlit run shotcharts.py
